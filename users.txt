@@ -1,0 +1,5 @@
+email@example.com,password123,1
+another@email.com,securePass456,2
+user@mail.com,secretWord789,3
+example@gmail.com,myPassword123,4
+testuser@hotmail.com,pass1234,5
